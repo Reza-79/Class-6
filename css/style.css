@@ -1,0 +1,249 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+header{
+    overflow: hidden;
+    width: 90%;
+    margin: 30px 5%;
+    
+    }
+    .logo{
+    width: 20%;
+    float: left;
+    }
+    .logo img{
+    padding-left: 10px;
+    }
+    .menu{
+        width: 10%;
+    float: right;
+    
+    }
+    .banner{
+        width: 80%;
+       margin: auto;
+       
+        
+    }
+    .banner img{
+        width: 100%;
+        margin-bottom: 80px;
+        
+    }
+ .lifestyle{
+width: 80%;
+margin: auto;
+overflow: hidden;
+margin-bottom: 30px;
+    }
+    .lifestyle_one{
+        width: 47%;
+        float: left;
+        padding-top: 20px;
+        }
+        
+        .lifestyle_one h2{
+        
+        }
+        
+        .lifestyle_one p{
+       font-size: small;
+       padding-left: 20px;
+        }
+        .lifestyle_two{
+            width: 47%;
+            float: right;
+        }
+        .lifestyle_two img{
+            width: 100%;
+            
+            }
+             .lifestyle{
+width: 80%;
+margin: auto;
+overflow: hidden;
+margin-bottom: 60px;
+    }
+    .lifestyle_one{
+        width: 47%;
+        float: left;
+        padding-top: 20px;
+        }
+        
+        .lifestyle_one p{
+       font-size: small;
+       padding-left: 20px;
+        }
+        .lifestyle_two{
+            width: 47%;
+            float: right;
+        }
+        .lifestyle_two img{
+            width: 100%;}
+
+
+            .project{
+                width: 80%;
+                height: 100px;
+                  margin: auto;
+                  overflow: hidden;
+                 margin-bottom: 30px;
+            }
+            .project_one{
+                width: 47%;
+                float: left;
+                padding-top: 20px;}
+                .project_one p{
+                    font-size: small;
+                    margin-top: 20px;
+                }
+                
+            .project_two{
+                width: 47%;
+                float: right;
+                padding-top: 20px;
+            }
+            .project_two h2{
+                padding-bottom: 20px;
+           }
+           .description{
+            width: 80%;
+             margin: auto;
+            overflow: hidden;
+            margin-bottom: 20px;
+           }
+           .div_one{
+            width: 32%;
+            float: left;
+            
+           }
+           .div_one img{
+               width: 100%;
+           }
+           .div_two{ 
+            width: 32%;
+            float: left;
+            
+           }
+           .div_two img{
+            width: 100%;
+            padding-left: 20px;
+        }
+
+           .div_three{
+            width: 32%;
+            float: right;
+            
+           }
+           .div_three img{
+            width: 100%;
+        }
+        .role{
+            width: 80%;
+            height: 340px;
+              margin: auto;
+              overflow: hidden;
+             margin-bottom: 50px;
+        }
+        .role_one{
+            width: 47%;
+            float: left;
+            padding-top: 20px;}
+            .role_one p{
+                font-size: small;
+                margin-top: 20px;
+            }
+            
+        .role_two{
+            width: 47%;
+            float: right;
+            padding-top: 20px;
+        }
+        .role_two h2{
+            padding-bottom: 20px;
+       }
+       .service{
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        margin-bottom: 50px;
+       }
+       .service_one{
+        width: 47%;
+        float: left;
+        padding-top: 20px;}
+        
+        .service_one img{
+            width: 100%;
+        }
+
+        .service_two{
+            
+                width: 47%;
+                float: right;
+                padding-top: 20px;}     
+                
+                .service_two img{
+                    width: 118%;
+                }
+                footer{
+                    width: 80%;
+                   margin: auto;
+                   margin-bottom: 50px;
+                   
+                    
+                }
+                footer img{
+                    width: 100%;
+                    margin-bottom: 30px;
+                }
+                .work{
+                    width: 80%;
+                    margin: auto;
+                    margin-bottom: 50px;
+                    
+
+                }
+                .work div_7{
+                  
+                }
+                button{
+                    padding: 20px;
+                    margin-left: 450px;
+                    margin-bottom: 40px;
+                }
+                .contact{
+                    width: 80%;
+                     margin: auto;
+                    overflow: hidden;
+                    margin-bottom: 20px;
+                   }
+                   .contact ul{
+                       list-style-type: none;
+                       padding: 5px;
+
+
+                   }
+                   .contact ul li::after{
+                       margin: 10px 5px;
+                   }
+                   .div_four{
+                    width: 32%;
+                    float: left;}
+                    
+                   .div_five{ 
+                    width: 32%;
+                    float: left;
+                    text-decoration: none;
+
+        
+                    
+                   }
+                   .div_six{
+                    width: 32%;
+                    float: right;
+                    
+                   }
+        
